@@ -25,7 +25,7 @@ SECRET_KEY = '&#%92c#r)iy5ufo*r@@+@1#f$)&7akm(44xnqzmasi0(fnv33x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://djangoturkey.azurewebsites.net']
 
 
 # Application definition
