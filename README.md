@@ -12,3 +12,6 @@ Kendisine gösterdiği emekten dolayı Teşekkür ederiz...
 - ### [Udemy Python Kursunda Kullanılan Tüm Kodlar](https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama/ "sıfırdan ileri seviyeye python")
 
 #### Mustafa Murat Coşkun -- https://github.com/mustafamuratcoskun
+
+
+![](https://raw.githubusercontent.com/HalukHackali/djangoH2Blog/master/media/halukhackali.pythonanywhere.com.png)
